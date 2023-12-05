@@ -8,6 +8,11 @@ scikit-learn = "*"
 pandas = "*"
 jupyter = "*"
 nltk = "*"
+matplotlib = "*"
+seaborn = "*"
+gensim = "*"
+tensorflow = "*"
+plotly = "*"
 
 [dev-packages]
 
