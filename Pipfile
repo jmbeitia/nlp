@@ -13,6 +13,7 @@ seaborn = "*"
 gensim = "*"
 tensorflow = "*"
 plotly = "*"
+gradio = "*"
 
 [dev-packages]
 
